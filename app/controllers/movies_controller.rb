@@ -25,6 +25,7 @@ class MoviesController < ApplicationController
   end
 
   def update
+    params.permit!
     @movie = Movie.find params[:id]
     @movie.update_attributes!(params[:movie])
     flash[:notice] = "#{@movie.title} was successfully updated."
