@@ -2,7 +2,7 @@
 
 This folder implements some features of the RottenPotatoes website. Run cucumber on feature/AddMovie.feature and check if the scenario outcome is "green as a cucumber!". If not, make the appropriate fixes and make it green!
 
-Make sure you have read Chapter 4 and 7 on ESaaS book and follow the screencast on <a href= http://youtu.be/-wgZXDmhRw4> this is the demo I did in class </a> and <a href= http://youtu.be/wornoChkjfM> this other one </a>, both from ESaaS authors.
+Make sure you have read Chapters 4 and 7 on ESaaS book and follow the screencast on <a href= http://youtu.be/-wgZXDmhRw4> this is the demo I did in class </a> and <a href= http://youtu.be/wornoChkjfM> this other one </a>, both from ESaaS authors.
 
 <h1> Part 2: Ruby/Rails Warm-up</h1>
 
